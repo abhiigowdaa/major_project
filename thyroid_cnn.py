@@ -1,4 +1,4 @@
-# Thyroid Disease Classification using ResNet50 (Multi-class Image Classification)
+# Thyroid Disease Classification using ResNet50 
 
 import os
 import cv2
